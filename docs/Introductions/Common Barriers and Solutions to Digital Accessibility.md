@@ -13,13 +13,13 @@ Blindness refers to the near or complete loss of vision.
 #### Solutions
 
 * Screen reader friendly content
-* Braile, tactile, and/or haptic feedback for device interfaces
-* Audio readouts of pertenant information
+* Braille, tactile, and/or haptic feedback for device interfaces
+* Audio readouts of pertinent information
 
 #### Barriers
 
 * Missing alternate text on images
-* Overly complicated or non-focusable naivation
+* Overly complicated or non-focusable navigation
 * Missing or inappropriately labeled page elements
 * Interactive `div` elements without proper ARIA attributes
 * Videos without description audio tracks
@@ -37,7 +37,7 @@ Color blindness impairs a person's ability to distinguish certain colors.
 #### Barriers
 
 * Color coded elements without alternate distinction
-* Color schemes with similar colors 
+* Color schemes with similar colors
 * Color schemes with `red/green` and/or `blue/yellow` combinations
 
 ### Low Vision
@@ -52,13 +52,13 @@ Low vision is a degree uncorrectable loss of vision.
 
 ### Barriers
 
-* Small text or fonts 
+* Small text or fonts
 * Insufficient color contrasts
 * Loss of information when zooming into content
 
 ## Auditory Barriers
 
-In addition to prartial and complete loss of hearing, certain conditions/injuries involving audio centric regions of the brain can greatly affect the perception of sound.
+In addition to partial and complete loss of hearing, certain conditions/injuries involving audio centric regions of the brain can greatly affect the perception of sound.
 
 ### Deafness
 
@@ -71,4 +71,3 @@ Mild to sever hearing loss.
 ### Auditory Processing Disorder
 
 The inability interpret, organize, or analyze what's heard.
-
