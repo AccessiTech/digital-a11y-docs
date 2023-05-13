@@ -58,7 +58,7 @@ Low vision is a degree uncorrectable loss of vision.
 
 ## Auditory Barriers
 
-In addition to partial and complete loss of hearing, certain conditions/injuries involving audio centric regions of the brain can greatly affect the perception of sound.
+In addition to partial and complete loss of hearing, certain conditions / injuries involving audio centric regions of the brain can greatly affect the perception of sound.
 
 ### Deafness
 
@@ -150,3 +150,95 @@ Injury induced impairments to the ability to process language.
 
 * Audio and video content without adequate playback controls
 * Timed content and session timeouts
+
+## Motor Barriers
+
+Motor impairments can be caused by a wide range of conditions and injuries, such as arthritis, cerebral palsy, muscular dystrophy, and/or brain injuries.
+
+### Manual Dexterity
+
+Impairments to the ability to use hands and fingers, such as the ability to use a mouse or keyboard.
+
+#### Solutions for Manual Dexterity
+
+* Keyboard friendly content
+* Voice control and commands
+* AI powered predictive text / code
+
+#### Barriers for Manual Dexterity
+
+* Small click / tap targets
+* Keyboard inaccessible content
+* Prolonged or repetitive actions
+
+### Mobility
+
+Impairments to the ability to move, including the ability to walk, reach, and/or grasp.
+
+#### Solutions for Mobility
+
+* Keyboard and assistive tech friendly content
+* Voice control and commands
+* Location / movement neutral content
+
+#### Barriers for Mobility
+
+* Inaccessible content, keyboard or otherwise
+* Prolonged or repetitive actions
+* Location / movement dependent content
+
+### Coordination
+
+Impairments to the ability to control fine motor movements, whether due to muscle fatigue, tremors, or other conditions.
+
+#### Solutions for Coordination
+
+* Keyboard and assistive tech friendly content
+* Larger click / tap targets
+* AI powered predictive text / code
+
+#### Barriers for Coordination
+
+* Small click / tap targets
+* Inaccessible content, keyboard or otherwise
+* Prolonged or repetitive actions
+
+## Cognitive Barriers
+
+Cognitive impairments can be caused by a wide range of conditions and injuries, such as autism, dyslexia, and/or brain injuries.
+
+### Dyslexia
+
+Impairments to the ability to read, write, and/or spell.
+
+#### Solutions for Dyslexia
+
+* Text to speech friendly content
+* Text and font controls
+* CAPTCHA security alternatives
+* Highlightable and copyable content
+
+#### Barriers for Dyslexia
+
+* Content inappropriately formatted for AAC software / devices
+* Small text or fonts with similar characters
+* CAPTCHA dependent features
+* Overly complicated or distracting content design
+
+### Dyscalculia
+
+Impairments to the ability to understand and work with numbers.
+
+#### Solutions for Dyscalculia
+
+* Descriptions / formats for charts and graphs
+* Text or audio based alternatives for numbers / calculations
+* Extended time for timed content
+
+#### Barriers for Dyscalculia
+
+* Charts and graphs without descriptions or alternate formats
+* Timed content and session timeouts
+* Calculation based security features
+
+
