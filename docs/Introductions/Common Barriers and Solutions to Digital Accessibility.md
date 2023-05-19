@@ -1,6 +1,6 @@
 # Common Barriers and Solutions to Digital Accessibility
 
-This document provides a brief overview common barriers to digital accessibility, further reading is encouraged.
+This document provides a brief overview of common barriers to digital accessibility, further reading is encouraged.
 
 ## Visual Barriers
 
