@@ -241,4 +241,54 @@ Impairments to the ability to understand and work with numbers.
 * Timed content and session timeouts
 * Calculation based security features
 
+### Autism Spectrum Disorder (ASD)
 
+Impairments to the ability to communicate and interact with others.
+
+#### Solutions for ASD
+
+* Predictable and consistent content
+* Audio and animation controls
+* Visual alternatives for complex textual content
+
+#### Barriers for ASD
+
+* Inconsistent content and unusual vocabulary
+* Audio and animation without controls
+* Complex textual content without visual alternatives
+
+### Attention Deficit Hyperactivity Disorder (ADHD)
+
+Impairments to the ability to focus and pay attention.
+
+#### Solutions for ADHD
+
+* Predictable and consistent content
+* Audio, video, and animation controls
+* Optional simplified content layout
+
+#### Barriers for ADHD
+
+* Overly complicated or distracting content design
+* Audio, video, and animation without controls
+* Timed content and session timeouts
+
+## Seizure Barriers
+
+Seizure inducing content can be caused by a wide range of conditions and injuries, such as epilepsy, photosensitive migraines, and/or brain injuries.
+
+### Photosensitivity
+
+Sensitivity to visual stimuli, such as flashing lights and/or rapidly changing colors.
+
+#### Solutions for Photosensitivity
+
+* Animation and Video controls
+* Content without flashing lights and/or rapidly changing colors
+* Content without strobing effects and/or rapidly moving patterns
+
+#### Barriers for Photosensitivity
+
+* Animation and Video without controls
+* Blinking or flashing content (more than 3 times per second)
+* Rapidly changing colors and/or patterns
