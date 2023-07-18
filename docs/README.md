@@ -4,7 +4,7 @@ This `docs` directory contains markdown documentation on a variety of topics, ou
 
 ## Table of Contents
 
-1. Introduction to Digital Accessibility
+1. [Introduction to Digital Accessibility](./Introductions)
 2. Web Content Accessibility Guidelines (WCAG)
 3. Common Accessibility Barriers and Solutions
 4. Inclusive Human Centered Design Practices
